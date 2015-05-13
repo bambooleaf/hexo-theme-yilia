@@ -6,10 +6,10 @@ menu:
 
 # SubNav
 subnav:
-  #github: "#"
-  #weibo: "#"
-  #rss: "#"
-  #zhihu: "#"
+  github: "#"
+  weibo: "#"
+  rss: "#"
+  zhihu: "#"
   #douban: "#"
   #mail: "#"
   #facebook: "#"
@@ -17,7 +17,7 @@ subnav:
   #twitter: "#"
   #linkedin: "#"
 
-#rss: /atom.xml
+rss: /atom.xml
 
 # Content
 excerpt_link: more
@@ -29,7 +29,7 @@ google_analytics: ''
 favicon: /favicon.png
 
 #你的头像url
-avatar: "http://7xj22g.com1.z0.glb.clouddn.com/zyw_kelode.jpg"
+avatar: ""
 #是否开启分享
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
@@ -42,16 +42,16 @@ tagcloud: true
 #不开启——
 #friends: false
 #开启——
-#friends:
-#  奥巴马的博客: http://localhost:4000/
-#  卡卡的美丽传说: http://localhost:4000/
-#  本泽马的博客: http://localhost:4000/
-#  吉格斯的博客: http://localhost:4000/
-#  习大大大不同: http://localhost:4000/
-#  托蒂的博客: http://localhost:4000/
+friends:
+  奥巴马的博客: http://localhost:4000/
+  卡卡的美丽传说: http://localhost:4000/
+  本泽马的博客: http://localhost:4000/
+  吉格斯的博客: http://localhost:4000/
+  习大大大不同: http://localhost:4000/
+  托蒂的博客: http://localhost:4000/
 
 #是否开启“关于我”。
 #不开启——
 #aboutme: false
 #开启——
-aboutme: 孤单却不寂寞
+aboutme: 我是谁，我从哪里来，我到哪里去？我就是我，是颜色不一样的吃货…
