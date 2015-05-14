@@ -7,7 +7,7 @@ menu:
 # SubNav
 subnav:
   #github: "#"
-  #weibo: "#"
+  #CSDN: "#"
   #rss: "#"
   #zhihu: "#"
   #douban: "#"
@@ -34,7 +34,7 @@ avatar: "http://7xj22g.com1.z0.glb.clouddn.com/zyw_kelode.jpg"
 share: true
 #是否开启多说评论，填写你在多说申请的项目名称 duoshuo: duoshuo-key
 #若使用disqus，请在博客config文件中填写disqus_shortname，并关闭多说评论
-duoshuo: true
+duoshuo: bambooleaf
 #是否开启云标签
 tagcloud: true
 
@@ -42,8 +42,8 @@ tagcloud: true
 #不开启——
 #friends: false
 #开启——
-#friends:
-#  奥巴马的博客: http://localhost:4000/
+friends:
+  本主题原作者的博客: http://litten.github.io/
 #  卡卡的美丽传说: http://localhost:4000/
 #  本泽马的博客: http://localhost:4000/
 #  吉格斯的博客: http://localhost:4000/
